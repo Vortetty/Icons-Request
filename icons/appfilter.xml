@@ -1,0 +1,97 @@
+<resources>
+    <iconback img1="iconback" />
+    <iconmask img1="iconmask" />
+    <iconupon img1="iconupon" />
+    <scale factor="1.0" />
+
+    <!-- 5e Companion App -->
+    <item
+        component="ComponentInfo{com.blastervla.ddencountergenerator/com.blastervla.ddencountergenerator.views.LoadingActivity}"
+        drawable="5e_companion_app" />
+
+    <!-- AnLinux -->
+    <item
+        component="ComponentInfo{exa.lnx.a/exa.lnx.a.MainUI}"
+        drawable="anlinux" />
+
+    <!-- Apk Extractor -->
+    <item
+        component="ComponentInfo{com.ext.ui/com.ext.ui.MainActivity}"
+        drawable="apk_extractor" />
+
+    <!-- Atomas -->
+    <item
+        component="ComponentInfo{com.sirnic.atomas/org.cocos2dx.cpp.AppActivity}"
+        drawable="atomas" />
+
+    <!-- Automate -->
+    <item
+        component="ComponentInfo{com.llamalab.automate/com.llamalab.automate.FlowListActivity}"
+        drawable="automate" />
+
+    <!-- Call Filter -->
+    <item
+        component="ComponentInfo{com.vzw.ecid/com.cequint.hs.client.frontend.WebShell}"
+        drawable="call_filter" />
+
+    <!-- Complete Reference -->
+    <item
+        component="ComponentInfo{com.vansteinengroentjes.apps.ddfive/com.vansteinengroentjes.apps.ddfive.SplashActivity}"
+        drawable="complete_reference" />
+
+    <!-- Digital Secure -->
+    <item
+        component="ComponentInfo{com.securityandprivacy.android.verizon.vms/com.mcafee.app.LauncherDelegateActivity}"
+        drawable="digital_secure" />
+
+    <!-- Fifth Edition Character Sheet -->
+    <item
+        component="ComponentInfo{com.wgkammerer.testgui.basiccharactersheet.app/com.wgkammerer.testgui.basiccharactersheet.app.MainActivity}"
+        drawable="fifth_edition_character_sheet" />
+
+    <!-- Kahoot! -->
+    <item
+        component="ComponentInfo{no.mobitroll.kahoot.android/no.mobitroll.kahoot.android.application.SplashActivity}"
+        drawable="kahoot!" />
+
+    <!-- Mindustry -->
+    <item
+        component="ComponentInfo{io.anuke.mindustry/io.anuke.mindustry.AndroidLauncher}"
+        drawable="mindustry" />
+
+    <!-- Mini Metro -->
+    <item
+        component="ComponentInfo{nz.co.codepoint.minimetro/com.dinopoloclub.minimetro.nbo.LicensedActivity}"
+        drawable="mini_metro" />
+
+    <!-- Night screen -->
+    <item
+        component="ComponentInfo{com.arrowsapp.nightscreen/com.arrowsapp.nightscreen.ui.main.MainActivity}"
+        drawable="night_screen" />
+
+    <!-- Pixel Studio -->
+    <item
+        component="ComponentInfo{com.PixelStudio/com.unity3d.player.UnityPlayerActivity}"
+        drawable="pixel_studio" />
+
+    <!-- Stack Exchange -->
+    <item
+        component="ComponentInfo{com.stackexchange.marvin/com.stackexchange.marvin.ui.LaunchActivity}"
+        drawable="stack_exchange" />
+
+    <!-- Surveys -->
+    <item
+        component="ComponentInfo{com.sotg.surveys/com.sotg.base.main.presentation.launch.LaunchActivity}"
+        drawable="surveys" />
+
+    <!-- Turtle Beach -->
+    <item
+        component="ComponentInfo{com.turtlebeach.px8audiohub/com.turtlebeach.px8audiohub.activity.SplashActivity}"
+        drawable="turtle_beach" />
+
+    <!-- VNC Viewer -->
+    <item
+        component="ComponentInfo{com.realvnc.viewer.android/com.realvnc.viewer.android.app.ConnectionChooserActivity}"
+        drawable="vnc_viewer" />
+
+</resources>
